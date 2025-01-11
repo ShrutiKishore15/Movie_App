@@ -1,2 +1,3 @@
-# Movie_App
-Movie App using API integration
+# movie_app
+
+A new Flutter project.
